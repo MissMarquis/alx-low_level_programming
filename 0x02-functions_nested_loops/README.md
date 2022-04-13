@@ -26,19 +26,17 @@
    new line. Returns 0.
 
 * **1.  I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
- *  [1-alphabet.c](./1-alphabet.c): C function that prints the alphabet in lowercase,
-   followed by a new line.
+*   [1-alphabet.c](./1-alphabet.c): C function that prints the alphabet in lowercase, followed by a new line.
 
 * **2. 10 x alphabet**
- *  [2. 2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the
-  alphabet in lowercase 10 times, followed by a new line.
+ *  [2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the alphabet in lowercase 10 times, followed by a new line.
 
 * **3. islower**
  *  [3-islower.c](./3-islower.c): C function that checks for lower characters.
   Return '1' if the character is lowercase, '0' otherwise
 
 * **4. isalpha**
-  * [4-isalpha.c'](./4-isalpha.c'): C function that checks for alphabetic character.
+  * [4-isalpha.c](./4-isalpha.c): C function that checks for alphabetic character.
   Return '1' if character is a letter, lowercase or uppercase, '0' otherwise
 
 * **5. Sign**
