@@ -22,19 +22,19 @@
 ## Tasks :page_with_curl:
 
 * **0. _putchar**
- * [0-putchar.c](./0-putchar.c): C program that prints '_putchar', followed by a
+ *  [0-putchar.c](./0-putchar.c): C program that prints '_putchar', followed by a
    new line. Returns 0.
 
 * **1.  I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
- * [1-alphabet.c](./1-alphabet.c): C function that prints the alphabet in lowercase,
+ *  [1-alphabet.c](./1-alphabet.c): C function that prints the alphabet in lowercase,
    followed by a new line.
 
 * **2. 10 x alphabet**
- * [2. 2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the
+ *  [2. 2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the
   alphabet in lowercase 10 times, followed by a new line.
 
 * **3. islower**
- * [3-islower.c](./3-islower.c): C function that checks for lower characters.
+ *  [3-islower.c](./3-islower.c): C function that checks for lower characters.
   Return '1' if the character is lowercase, '0' otherwise
 
 * **4. isalpha**
@@ -61,7 +61,7 @@
   * [9-times_table.c](./9-times_table.c): C function that prints the 9 times table, starting with '0'
   use example format
 
-* **10. a + b
+* **10. a + b**
   * [10-add.c](./10-add.c): C function that adds two integers and returns the result.
 
 * **11. 98 Battery Street, the OG**
