@@ -30,40 +30,40 @@
    followed by a new line.
 
 * **2. 10 x alphabet**
- *[2. 2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the
+ * [2. 2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the
   alphabet in lowercase 10 times, followed by a new line.
 
 * **3. islower**
- *[3-islower.c](./3-islower.c): C function that checks for lower characters.
+ * [3-islower.c](./3-islower.c): C function that checks for lower characters.
   Return '1' if the character is lowercase, '0' otherwise
 
 * **4. isalpha**
-  *[4-isalpha.c'](./4-isalpha.c'): C function that checks for alphabetic character.
+  * [4-isalpha.c'](./4-isalpha.c'): C function that checks for alphabetic character.
   Return '1' if character is a letter, lowercase or uppercase, '0' otherwise
 
 * **5. Sign**
-  *[5-sign.c](./5-sign.c): C function that prints the sign of a number.
+  * [5-sign.c](./5-sign.c): C function that prints the sign of a number.
   Return '1' and prints '+' if 'n' is greater than zero, '0' otherwise and prints '0' if 'n' is zero
   '-1' otherwise and prints '-' if 'n' is less than zero
 
 * **6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you**
-  *[6-abs.c](./6-abs.c): C function that computes the absolute value of an integer.
+  * [6-abs.c](./6-abs.c): C function that computes the absolute value of an integer.
 
 * **7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important**
-  *[7-print_last_digit.c](./7-print_last_digit.c): C function that prints the last digit of a number.
+  * [7-print_last_digit.c](./7-print_last_digit.c): C function that prints the last digit of a number.
   Return the value of the last digit
 
 * **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
-  *[8-24_hours.c](./8-24_hours.c'): C function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+  * [8-24_hours.c](./8-24_hours.c'): C function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
   listen to 'this soundtrack' while coding
 
 * **9. Learn your times table**
-  *[9-times_table.c](./9-times_table.c): C function that prints the 9 times table, starting with '0'
+  * [9-times_table.c](./9-times_table.c): C function that prints the 9 times table, starting with '0'
   use example format
 
 * **10. a + b
-  *[10-add.c](./10-add.c): C function that adds two integers and returns the result.
+  * [10-add.c](./10-add.c): C function that adds two integers and returns the result.
 
 * **11. 98 Battery Street, the OG**
-  *[11-print_to_98.c](./11-print_to_98.c): C function that prints all natural numbers from 'n' to '98',
+  * [11-print_to_98.c](./11-print_to_98.c): C function that prints all natural numbers from 'n' to '98',
   followed by a new line
