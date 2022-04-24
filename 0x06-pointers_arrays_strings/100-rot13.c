@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  *  *rot13 - function that encodes string using rot13
  *  @s: string
@@ -13,7 +13,7 @@ char *rot13(char *s)
 
 	for (x = 0; s[x] != '\0'; x++)
 	{
-		for (y = 0; inpu[y] != '\0'; y++)
+		for (y = 0; input[y] != '\0'; y++)
 		{
 			if (s[x] == input[y])
 			{
