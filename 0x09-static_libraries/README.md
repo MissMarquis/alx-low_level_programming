@@ -1,1 +1,1 @@
-C-libaries (static and shared libiries)
+C-libraries (static and shared libraries)
