@@ -1,21 +1,16 @@
-import ctypes
-NUM = 16	
-# libdynamic loaded to the python file
-# using dynamic.myFunction(),
-# C function can be accessed
-# but type of argument is the problem.
-						
-dynamic = ctypes.CDLL("libdynamic.so") # Or full path to file
-# Now whenever argument
-# will be passed to the function													
-# ctypes will check it.
-		
-dynamic.myFunction.argtypes = [ctypes.c_int]
-
-# now we can call this
-# function using instant (dynamic)
-# returnValue is the value
-# return by function written in C
-# code
-returnVale = dynamic.myFunction(NUM)	
+from ctypes import *
+libDynamic = CDLL("./libdynamic.so")
+ 
+#call C function to check connection
+libDynamic.connect() 
+ 
+#calling randNum() C function
+#it returns random number
+varRand = libDynamic.randNum()
+print "Random Number:", varRand, type(varRand)
+ 
+#calling addNum() C function
+#it returns addition of two numbers
+varAdd = libDynamic.addNum(20,30)
+print "Addition : ", varAdd
 
